@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains Noah Larbalestier's (my) implementation for PA5, where the goal is to build a generic SAT solver using **GSAT** and **WalkSAT**. The provided `.cnf` files are sudoku encodings, the solver works for any CNF formula with integer literals given in the `.cnf`file format.
+This folder contains an implementation of local search algos for boolean satisfiability problems in CNF, with the goal of building a generic solver using **GSAT** and **WalkSAT**. The provided `.cnf` files are sudoku encodings, the solver works for any CNF formula with integer literals given in the `.cnf`file format.
 
 The key files are:
 
