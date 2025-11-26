@@ -118,7 +118,7 @@ can easily modify
 - Max flips / tries  
 - Seeds  
 
-### MaxWalkSAT (optional extension)
+### MaxWalkSAT (extension)
 
 As an extension, `SAT.py` also implements **MaxWalkSAT**, a weighted variant of WalkSAT.
 
